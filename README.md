@@ -25,9 +25,9 @@ The dataset includes features such as `Pclass`, `Sex`, `Age`, `SibSp`, `Parch`, 
 ##  Features Engineered
 - **Standard Features**: Pclass, Sex, Age, SibSp, Parch, Fare, Embarked.  
 - **New Features**:
-  - **FamilySize** = SibSp + Parch + 1: captures traveling with family.  
+- **FamilySize** = SibSp + Parch + 1: captures traveling with family.  
 
-These features help capture survival tendencies, such as higher survival rates for women, children, and small families. :contentReference[oaicite:1]{index=1}
+These features help capture survival tendencies, such as higher survival rates for women, children, and small families. 
 
 ---
 
@@ -72,5 +72,4 @@ Visuals include:
 
 ---
 
-##  Project Structure
 
