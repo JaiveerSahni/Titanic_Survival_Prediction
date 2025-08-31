@@ -63,13 +63,8 @@ Visuals include:
 - Feature importances highlight key predictors like `Sex`, `Pclass`, and `FamilySize`.
 
 ---
+# Kaggle Link : https://www.kaggle.com/code/jaiveersinghsahni/titanicsurvivalprediction
 
-##  Future Improvements
-- Try **XGBoost**, **LightGBM**, or **CatBoost** for performance gains.  
-- Perform **feature engineering** such as extracting titles from `Name` or cabin decks.  
-- Deploy a prediction interface using Flask or Streamlit.  
-- Conduct deeper hyperparameter optimization for better generalization.
 
----
 
 
