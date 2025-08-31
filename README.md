@@ -63,7 +63,7 @@ Visuals include:
 - Feature importances highlight key predictors like `Sex`, `Pclass`, and `FamilySize`.
 
 ---
-# Kaggle Link : https://www.kaggle.com/code/jaiveersinghsahni/titanicsurvivalprediction
+## Kaggle Link : https://www.kaggle.com/code/jaiveersinghsahni/titanicsurvivalprediction
 
 
 
